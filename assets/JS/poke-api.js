@@ -1,3 +1,4 @@
+//CONEXÃO COM A API
 //DECLARANDO UM OBJETO
 const pokeApi = {}
 

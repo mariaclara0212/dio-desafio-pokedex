@@ -1,3 +1,4 @@
+// CONFIGURAÇÕES DETALHES DOS POKEMONS
 const detailList = document.getElementById('listDetails')
 
 //trocar para back

@@ -1,3 +1,4 @@
+// LISTAGEM PRINCIPAL
 //PEGANDO A LISTA EM HTML 
 const pokemonList = document.getElementById('pokemonList')
 const loadMoreButton = document.getElementById('loadMoreButton')

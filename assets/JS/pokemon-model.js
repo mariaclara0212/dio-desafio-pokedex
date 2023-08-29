@@ -1,3 +1,4 @@
+//MODELS
 class Pokemon {
     number;
     name;
