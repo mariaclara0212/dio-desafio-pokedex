@@ -1,0 +1,40 @@
+/*ESTILOS GLOBAIS*/
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;  /* Borda como tamanho total */
+}
+
+body {
+    background-image: url(../img/fundo-3.png);
+    background-size: 100vw;
+    background-repeat: repeat;
+}
+
+.content {
+    width: 100vw;
+    height: 100vh;
+    padding: 1rem;
+    background-color: #fff;  
+}
+
+/* MEDIA SCREEN - TABLET  */
+@media screen and (min-width: 992px) {
+
+    .content {
+        max-width: 992px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+
+}
+
+.content h1 {
+    margin: 0;
+    text-align: center;
+}
+
+.pokemonDetails h1 {
+    margin: 0;
+    text-align: center;
+}
