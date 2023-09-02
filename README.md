@@ -1,5 +1,5 @@
 # 🧢 Pokedex
-Este é projeto de uma página de listagem de Pokemons sobre os primeiros 151 Pokémons da região de Kanto. Nossa Pokédex é organizada de 10 em 10 Pokémon por página, e também oferece uma segunda página com detalhes das habilidades de cada Pokémon.
+Este é projeto de uma página de listagem de Pokemons sobre os primeiros 151 Pokémons da região de Kanto. Nossa Pokédex é organizada de 10 em 10 Pokémons por página, e também oferece uma segunda página com detalhes das habilidades de cada Pokémon.
 
 
 <img src="./assets/capa1.png"/>
