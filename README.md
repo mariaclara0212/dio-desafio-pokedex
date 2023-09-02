@@ -20,6 +20,7 @@ A Listagem engloba todos os 151 Pokémons da 1ª geração. Os Pokemons são ger
 - Imagem do Pokemon
 
 ### 📚 Detalhes Listados : 
+<img src="./assets/capaDetalhes.png"/>
 
 Para obter informações detalhadas sobre as habilidades dos Pokemons listados, basta clicar no botão ``Details``. 
 
